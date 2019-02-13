@@ -11,5 +11,3 @@
       <li> <a href="update_books.php">Muokkaa kirja</a> </li>
       <li> <a href="delete_books.php">Poista kirja</a> </li>
     </ul>
-  </body>
-</html>
